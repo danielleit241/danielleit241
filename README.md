@@ -1,5 +1,5 @@
-👋 Hi, I’m @danielleit241 
-🌱 I’m currently learning in FPT University
+- 👋 Hi, I’m @danielleit241 
+- 🌱 I’m currently learning in FPT University
 
 
 <!---
