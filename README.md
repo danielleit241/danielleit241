@@ -16,9 +16,9 @@
 <br>
 <h2 align="center">✍️ Random Dev Quote</h2>
 <br>
-<div>
+<div align="center">
   <a href="#" title="danielleit241">
-    <img width="700" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    <img width="100%" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   </a>
 </div>
 <br>
