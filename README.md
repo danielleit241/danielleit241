@@ -1,11 +1,20 @@
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=danielleit241&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielleit241&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
+<h2 align="center">💻 Tech Stack 💻</h2>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,java,git,github,docker,js,html,css,react" /><br>
+</div>
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="danielleit241">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielleit241&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+<br>
+<h2 align="center">✍️ Random Dev Quote</h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
