@@ -18,7 +18,7 @@
 <br>
 <div align="center">
   <a href="#" title="danielleit241">
-    <img width="100%" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    <img width="100%" height="100%" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   </a>
 </div>
 <br>
