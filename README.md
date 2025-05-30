@@ -15,16 +15,10 @@
 </div>
 <br>
 <h2 align="center">✍️ Random Dev Quote</h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
-<div align=center>
+<div>
   <a href="#" title="danielleit241">
     <img width="315" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   </a>
 </div>
 <br>
-
----
-[![](https://visitcount.itsvg.in/api?id=danielleit241&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
