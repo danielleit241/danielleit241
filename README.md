@@ -2,7 +2,7 @@
     <h2 align="center">💻 Tech Stack 💻</h2>
     <br>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet,java,git,github,docker,js,html,css,react" /><br>
+        <img src="https://skillicons.dev/icons?i=dotnet,java,maven,git,github,docker,js,html,css,react,selenium" /><br>
     </div>
     <br>
     <h2 align="center">🔥 GitHub Stats 🔥</h2>
