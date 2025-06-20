@@ -16,9 +16,8 @@
 <!-- 💻 Tech Stack Section -->
 <h2>💻 Tech Stack 💻</h2>
 <br>
-<img src="https://skillicons.dev/icons?i=dotnet,java,maven,git,github,docker,js,html,css,react,selenium" /><br>
+<img src="https://skillicons.dev/icons?i=dotnet,java,maven,git,github,docker,js,html,css,react,selenium" />
 <br>
-
 <!-- 🔥 GitHub Stats Section -->
 <h2>🔥 GitHub Stats 🔥</h2>
 <br>
