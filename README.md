@@ -6,14 +6,11 @@
 <!-- 👤 About Me Section -->
 <h2>👤 About Me</h2>
 <p>
-    I'm a <strong>.NET Backend Developer</strong> and a third-year student at <strong>FPT University</strong>.<br>
-    I specialize in backend development with experience in:
+    I'm a <strong>third-year student at FPT University</strong>, focusing on backend development with <strong>.NET</strong> and <strong>Java</strong>.  
+    I have experience working with ASP.NET, Entity Framework, WPF, WinForms, and basic knowledge of Java tools like Maven, JUnit, and Spring Boot.
 </p>
 <p>
-    <strong>Interests & Goals:</strong><br>
-    🚀 Building scalable, high-performance backend systems with .NET and Java.<br>
-    📐 Exploring theoretical and applied mathematics.<br>
-    🔍 Continuously learning modern backend technologies and software practices.
+    I'm passionate about building scalable backend systems, exploring applied mathematics, and continuously learning new technologies.
 </p>
 
 <!-- 💻 Tech Stack Section -->
