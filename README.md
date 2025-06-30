@@ -17,12 +17,12 @@
 
 <!-- Programming Languages & Frameworks -->
 <h3>🧠 Programming Languages & Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=dotnet,java,nodejs,nestjs,react,redux,ts,js,html,css,sass,c" />
+<img src="https://skillicons.dev/icons?i=dotnet,java,nodejs,nestjs,react,redux,ts,js,html,css,sass,c,regex" />
 <br>
 
 <!-- Tools & Platforms -->
 <h3>🛠️ Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,stackoverflow,selenium,maven,vite" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,npm,stackoverflow,postgres,prisma,selenium,maven,vite" />
 <br>
 
 <!-- 🔥 GitHub Stats Section -->
