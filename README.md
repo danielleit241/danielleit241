@@ -22,7 +22,7 @@
 
 <!-- Tools & Platforms -->
 <h3>🛠️ Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,npm,stackoverflow,postgres,prisma,selenium,maven,vite" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,docker,postman,npm,stackoverflow,postgres,mongo,prisma,selenium,maven,vite" />
 <br>
 
 <!-- 🔥 GitHub Stats Section -->
