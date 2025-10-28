@@ -13,18 +13,6 @@
     I'm passionate about building scalable backend systems, and continuously learning new technologies.
 </p>
 
-<h2>💻 Tech Stack 💻</h2>
-
-<!-- Programming Languages & Frameworks -->
-<h3>🧠 Programming Languages & Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=dotnet,java,nodejs,nestjs,react,redux,ts,js,html,css,sass,c,regex" />
-<br>
-
-<!-- Tools & Platforms -->
-<h3>🛠️ Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,docker,postman,npm,stackoverflow,postgres,mongo,prisma,selenium,maven,vite" />
-<br>
-
 <!-- 🔥 GitHub Stats Section -->
 <h2>🔥 GitHub Stats 🔥</h2>
 <br>
