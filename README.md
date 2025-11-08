@@ -13,14 +13,6 @@
     I'm passionate about building scalable backend systems, and continuously learning new technologies.
 </p>
 
-<!-- 🔥 GitHub Stats Section -->
-<h2>🔥 GitHub Stats 🔥</h2>
-<br>
-<a href="#" title="danielleit241">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielleit241&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</a>
-<br>
-
 <!-- 📫 Contact Me Section -->
 <h2>📫 Contact Me</h2>
 <p>
