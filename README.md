@@ -29,6 +29,6 @@
 <p>
     📧 Email: <a href="danielleee241@gmail.com">danielleee241@gmail.com</a><br>
     💼 LeetCode: <a href="https://leetcode.com/u/danielleit/">danielleit</a><br>
-    🖥️ Linked: <a href="https://www.linkedin.com/in/le-vu-phuong-hoa-b6a562382/">danielleit241</a>
+    🖥️ Linkedin: <a href="https://www.linkedin.com/in/le-vu-phuong-hoa-b6a562382/">danielleit241</a>
     
 </p>
