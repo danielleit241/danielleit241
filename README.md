@@ -5,13 +5,8 @@
 
 <!-- 👤 About Me Section -->
 <h2>👤 About Me</h2>
-<p>
-    I'm a <strong>third-year student at FPT University</strong>, focusing on backend development with <strong>.NET</strong> and <strong>Java</strong>.  
-    I have experience working with ASP.NET, Entity Framework, WPF, WinForms, ...
-</p>
-<p>
-    I'm passionate about building scalable backend systems, and continuously learning new technologies.
-</p>
+
+I’m deeply passionate about **backend development**, driven by the excitement of designing systems that are both **robust and maintainable**. I enjoy exploring **design patterns and architecture principles**, continuously learning how to apply them to create clean, scalable, and high-quality solutions. Over the next few years, my goal is to grow into a **highly skilled backend engineer**, capable of tackling complex problems and contributing to impactful projects, while constantly evolving my knowledge and skills through hands-on experience and innovative challenges.
 
 <!-- 📫 Contact Me Section -->
 <h2>📫 Contact Me</h2>
