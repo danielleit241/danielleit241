@@ -3,6 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel!;" />
 </h1>
 
+<div class="md:flex md:justify-center md:items-center">
+    <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Image">
+</div>
+
 <!-- 👤 About Me Section -->
 <h2>👤 About Me</h2>
 
