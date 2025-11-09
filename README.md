@@ -1,17 +1,19 @@
 <!-- 👋 Greeting Line (centered) -->
-<div class="text-center">
-    <!-- Ảnh typing SVG -->
-    <img 
-        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel!;" 
-        alt="Typing Text"
-        class="mx-auto"
-    />
-    <img
-        src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" 
-        alt="Image" 
-        class="block mx-auto mt-4 md:w-1/2 w-32"
-    />
+<div align="center">
+  <!-- Ảnh typing SVG -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel!;" 
+    alt="Typing Text"
+  />
+
+  <!-- Ảnh của bạn -->
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" 
+    alt="Image" 
+    width="200"
+  />
 </div>
+
 
 
 
