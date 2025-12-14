@@ -30,7 +30,7 @@ I’m deeply passionate about **backend development**, driven by the excitement 
 </p>
 <p>
     📧 Email: <a href="danielleee241@gmail.com">danielleee241@gmail.com</a><br>
-    💼 LeetCode: <a href="https://leetcode.com/u/danielleit/">danielleit</a><br>
-    🖥️ Linkedin: <a href="https://www.linkedin.com/in/le-vu-phuong-hoa-b6a562382/">danielleit241</a>
+    💼 LeetCode: <a href="https://leetcode.com/u/danielleit241">Hoa Le</a><br>
+    🖥️ Linkedin: <a href="https://www.linkedin.com/in/danielle241/">Le Vu (Daniel) Phuong Hoa</a>
     
 </p>
