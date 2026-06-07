@@ -19,11 +19,3 @@ Outside of building projects, I enjoy learning new technologies, experimenting w
 💻 **LeetCode:** https://leetcode.com/u/danielleit241
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/danielle241
-
----
-
-## 📊 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielleit241" alt="GitHub Profile Summary" />
-</p>
