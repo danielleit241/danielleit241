@@ -12,6 +12,8 @@ Outside of building projects, I enjoy learning new technologies, experimenting w
 
 ## 📫 Connect With Me
 
+<p> Feel free to connect or reach out for collaboration or a chat! </p>
+
 📧 **Email:** [danielleee241@gmail.com](mailto:danielleee241@gmail.com)
 
 💻 **LeetCode:** https://leetcode.com/u/danielleit241
@@ -23,5 +25,5 @@ Outside of building projects, I enjoy learning new technologies, experimenting w
 ## 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielleit241&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielleit241" alt="GitHub Profile Summary" />
 </p>
